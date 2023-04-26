@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+
+.env
+.venv/
+*.ipynb
+
+# plotly
+iframe_figures/
+
+# data
+data/
+
